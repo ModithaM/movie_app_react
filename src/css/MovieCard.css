@@ -97,6 +97,10 @@
   margin: 0;
 }
 
+.movie-info h3:hover{
+  color: #28a2d5;
+}
+
 .movie-info p {
   color: #999;
   font-size: 0.9rem;
