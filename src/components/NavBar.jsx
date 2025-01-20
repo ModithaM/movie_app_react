@@ -6,12 +6,12 @@ function NavBar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <Link to="/movie_app_react/">
+        <Link to="/">
           <img className="Logo" src={Logo} />
         </Link>
       </div>
       <div className="navbar-links">
-        <Link to="/movie_app_react/" className="nav-link">
+        <Link to="/" className="nav-link">
           Home
         </Link>
         <Link to="/favorites" className="nav-link">
